@@ -1,0 +1,2 @@
+# game
+to practice C 
